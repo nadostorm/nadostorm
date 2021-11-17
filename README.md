@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nadostorm
+User = @nadostorm
 - 👀 I’m interested in Web/mobile
 - 🌱 I’m currently learning Code/web
 - 💞️ I’m looking to collaborate on ...
